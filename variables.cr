@@ -17,3 +17,10 @@ p! message
 message = 3
 
 p! typeof(message)
+
+name = "taro"
+puts "Hello #{name}さん！"
+
+puts "I say: \"Hello World!\""
+
+
